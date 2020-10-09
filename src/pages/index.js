@@ -100,7 +100,6 @@ export const query = graphql`
         title
         description
         text
-        subtitle
         home_items {
           name
           description
